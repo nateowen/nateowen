@@ -5,7 +5,7 @@ Student | Software Engineer | Founder
 -------------------------------------
 
 * 🌍  I'm based in Salt Lake City, UT
-* 🖥️  See my portfolio at [nathanrowen.com](http://nathanrowen.com)
+* 🖥️  See my portfolio at [nro-portfolio.vercel.app](http://nro-portfolio.vercel.app)
 * ✉️  You can contact me at [nathanrheadowen@gmail.com](mailto:nathanrheadowen@gmail.com)
 * 🚀  I'm currently working on [MatchPoint](http://getmatchpoint.com)
 * 🧠  I'm learning Next.js and AWS.
