@@ -7,7 +7,7 @@ Student | Software Engineer | Founder
 * 🌍  I'm based in Salt Lake City, UT
 * 🖥️  See my portfolio at [nro-portfolio.vercel.app](http://nro-portfolio.vercel.app)
 * ✉️  You can contact me at [nathanrheadowen@gmail.com](mailto:nathanrheadowen@gmail.com)
-* 🚀  I'm currently working on [MatchPoint](http://getmatchpoint.com)
+* 🚀  I'm currently working on [Wander Studios](https://wander-website.vercel.app/)
 * 🧠  I'm learning Next.js and AWS.
 * ⚡  I am a devout sports fanatic. My teams include FC Barcelona, Phoenix Suns, Arizona Cardinals and many more teams and athletes.
 
