@@ -5,7 +5,7 @@ Student | Software Engineer | Founder
 -------------------------------------
 
 * 🌍  I'm based in Salt Lake City, UT
-* 🖥️  See my portfolio at [nro-portfolio.vercel.app](http://nro-portfolio.vercel.app)
+* 🖥️  See my portfolio at [nathanrowen.dev](https://www.nathanrowen.dev/)
 * ✉️  You can contact me at [nathanrheadowen@gmail.com](mailto:nathanrheadowen@gmail.com)
 * 🚀  I'm currently working on [Wander Studios](https://wander-website.vercel.app/)
 * 🧠  I'm learning Next.js and AWS.
