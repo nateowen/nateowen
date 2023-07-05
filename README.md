@@ -8,7 +8,7 @@ Student | Creative Developer
 * 🖥️  See my portfolio at [nathanrowen.dev](https://www.nathanrowen.dev/)
 * ✉️  You can contact me at [nathanrheadowen@gmail.com](mailto:nathanrheadowen@gmail.com)
 * 🚀  I'm currently working on some personal projects.
-* 🧠  I'm learning Rust and UX/UI Design Technologies.
+* 🧠  I'm learning Rust, Spatial Computing, and UX/UI Design Technologies.
 * ⚡  I am a sports fanatic. My teams include FC Barcelona, Phoenix Suns, Arizona Cardinals and many more teams and athletes.
 
 ### Skills
