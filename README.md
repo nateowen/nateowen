@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathan (Nate) Owen
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nate Owen
 ===================================================================================================================================
 
-Student | Creative Developer
+Creative Developer & Student
 -------------------------------------
 
-* 🌍  I'm based in Salt Lake City, UT
+* 🌍  I'm based in Irvine, CA
 * 🖥️  See my portfolio at [nathanrowen.dev](https://www.nathanrowen.dev/)
 * ✉️  You can contact me at [nathanrheadowen@gmail.com](mailto:nathanrheadowen@gmail.com)
-* 🚀  I'm currently working on some personal projects.
-* 🧠  I'm learning Rust, Spatial Computing, and UX/UI Design Technologies.
-* ⚡  I am a sports fanatic. My teams include FC Barcelona, Phoenix Suns, Arizona Cardinals and many more teams and athletes.
+* 🚀  I'm currently working on some personal projects in the 3D Creative space.
+* 🧠  I'm learning 3D creative technologies such as Three.js, GSAP, Blender, Framer Motion, and many more.
+* ⚡  In addition to computer programming, I am a sports fanatic, cinephile, and amateur actor.
 
 ### Skills
 
